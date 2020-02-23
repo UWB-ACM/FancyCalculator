@@ -62,7 +62,7 @@ var Calculator = function () {
             // Perform calculation
             switch (prevOperator) {
                 case "+":
-                    sum = sum - parseFloat(self.display(), 10);
+                    sum = sum + parseFloat(self.display(), 10);
                     break;
                 case "-":
                     sum = sum - parseFloat(self.display(), 10);
