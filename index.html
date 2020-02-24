@@ -3,6 +3,11 @@
 <head>
     <title>Calculator</title>
     <link href="style.css" rel="stylesheet" />
+
+<script
+  src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+  crossorigin="anonymous"></script>
 </head>
 <body class="body">
 
@@ -28,10 +33,15 @@
         <button id="calculator-button-+" class="u1 button button-gray" data-bind="click: operator">+</button>
         <button id="calculator-button-0" class="u2 button button-gray" data-bind="click: number">0</button>
         <button id="calculator-button-." class="u1 button button-gray" data-bind="click: number">.</button>
-        <button id="calculator-button-=" class="u1 button button-blue" data-bind="click: operator">=</button>            
+        <button id="calculator-button-=" class="u1 button button-blue" data-bind="click: operator">=</button>
+
+        <select id="themeselector" onchange="selection()">
+            <option selected value="none">None</option>
+        </select>
     </div>
 
     <script src="knockout-2.1.0.js"></script>
+    <script src="themes.js"></script>
     <script src="calculator.js"></script>
 
 </body>
