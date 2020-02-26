@@ -1,7 +1,7 @@
+name: Invite a new collaborator
 on:
   issue_comment:
     types: [created]
-name: Invite a new collaborator
 
 jobs:
   build:
