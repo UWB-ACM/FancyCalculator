@@ -321,7 +321,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("Blood Sweat Tear", "linear-gradient(red, purple)", "gray", "white");
 
     // TODO: Fix theme 22 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
