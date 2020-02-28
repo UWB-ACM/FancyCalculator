@@ -349,7 +349,7 @@ $( document ).ready(function() {
 
     // TODO: Fix theme 26 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
-    //   - Change the colors blue and red with colors of your choice.	
+    //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
     // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
 
@@ -509,7 +509,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("orangeyfunk", "linear-gradient(orangey, red)", "orange", "red");
 
     // TODO: Fix theme 54 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
