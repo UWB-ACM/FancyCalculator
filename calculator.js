@@ -532,7 +532,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("Hello There", "linear-gradient(blue, white)", "red", "blue");
 
     // TODO: Fix theme 57 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
