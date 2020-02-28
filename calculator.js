@@ -1,5 +1,4 @@
-/*
- * Copyright (C) 2012 Ideaviate AB
+﻿ * Copyright (C) 2012 Ideaviate AB
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -387,7 +386,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("Itachi Uchiha", "linear-gradient(black, red)", "purple", "white");
 
     // TODO: Fix theme 33 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
