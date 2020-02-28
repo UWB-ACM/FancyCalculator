@@ -430,7 +430,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    addOption("poopoopeepee", "linear-gradient(brown, yellow)", "red", "red");
+    addOption("poopoopeepee", "linear-gradient(yellow, purple)", "blue", "black");
 
     // TODO: Fix theme 40 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
