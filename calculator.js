@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (C) 2012 Ideaviate AB
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -220,7 +220,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("stump's theme", "linear-gradient(grey, white)", "red", "black");
 
     // TODO: Fix theme 5 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -237,20 +237,19 @@ $( document ).ready(function() {
     // TODO: Fix theme 7 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
-    //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("Wolf theme", "linear-gradient(blue, orange)", "blue", "white");
 
     // TODO: Fix theme 8 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("estefano", "linear-gradient(black, white)", "red", "red");
 
     // TODO: Fix theme 9 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("Jessica theme", "linear-gradient(white, purple)", "pink", "grey");
+    addOption("Jessica theme", "linear-gradient(white, purple)", "pink", "grey");
 
     // TODO: Fix theme name0 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -298,7 +297,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("mango theme", "linear-gradient(orange, red)", "red", "yellow");
 
     // TODO: Fix theme name8 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -334,7 +333,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("CheukHang theme", "linear-gradient(red, purple)", "blue", "white");
 
     // TODO: Fix theme 24 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -350,7 +349,7 @@ $( document ).ready(function() {
 
     // TODO: Fix theme 26 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
-    //   - Change the colors blue and red with colors of your choice.
+    //   - Change the colors blue and red with colors of your choice.	
     //   - Uncomment the call to addOption (remove the `//`)
     // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
 
@@ -364,7 +363,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+	addOption("blueWhiteTheme", "linear-gradient(blue, white)", "blue", "white");
 
     // TODO: Fix theme 29 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -376,7 +375,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("nerdromere feature", "linear-gradient(green, blue)", "gold", "purple");
 
     // TODO: Fix theme 31 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -418,37 +417,33 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("mendomic theme", "linear-gradient(green, black)", "purple", "white");
 
-    // TODO: Fix theme 38 - To fix this:
-    //   - Change "theme name" to a catchy name (can be your name)
-    //   - Change the colors blue and red with colors of your choice.
-    //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("Alec Radliff's no color wheel ", "linear-gradient(purple, orange)", "white", "green");
 
     // TODO: Fix theme 39 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("poopoopeepee", "linear-gradient(blue, red)", "red", "red");
 
     // TODO: Fix theme 40 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("rpas3577", "linear-gradient(yellow, orange)", "yellow", "black");
 
     // TODO: Fix theme 41 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("watermelon", "linear-gradient(red, green)", "blue", "white");
 
     // TODO: Fix theme 42 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("Hoiyoiyoiyoyioyioyiyoiyoiyoyioyioyioyiyoiyoyioyioyiyoi", "linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)", "lime-green", "purple");
 
     // TODO: Fix theme 43 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -460,19 +455,19 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("willywonka454 theme", "linear-gradient(green, orange)", "blue", "yellow");
 
     // TODO: Fix theme 45 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("SCL Orange-Gray", "linear-gradient(orange, gray)", "orange", "gray");
 
     // TODO: Fix theme 46 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("mukat6 theme", "linear-gradient(blue, red)", "red", "red");
 
     // TODO: Fix theme 47 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -490,7 +485,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("ashieda", "linear-gradient(green, cyan)", "blue", "yellow");
 
     // TODO: Fix theme 50 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -502,7 +497,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("mike-theme", "linear-gradient(orange, black)", "green", "green");
 
     // TODO: Fix theme 52 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
@@ -532,7 +527,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("Hello There", "linear-gradient(blue, red)", "red", "blue");
 
     // TODO: Fix theme 57 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
