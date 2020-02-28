@@ -466,7 +466,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    addOption("SCL Orange-Black", "linear-gradient(orange, black)", "orange", "black");
+    addOption("SCL Orange-Gray", "linear-gradient(orange, gray)", "orange", "gray");
 
     // TODO: Fix theme 46 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
