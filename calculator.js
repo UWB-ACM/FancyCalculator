@@ -438,11 +438,11 @@ $( document ).ready(function() {
     //   - Uncomment the call to addOption (remove the `//`)
     // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
 
-    // TODO: Fix theme 41 - To fix this:
-    //   - Change "theme name" to a catchy name (can be your name)
+   // TODO: Add theme 41 - To fix this:
+    //   - Change "theme name" to a catchy name (use your name or alias)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+    addOption("jelt theme", "linear-gradient(red, green)", "blue", "white");
 
     // TODO: Fix theme 42 - To fix this:
     //   - Change "theme name" to a catchy name (can be your name)
