@@ -417,7 +417,7 @@ $( document ).ready(function() {
     //   - Change "theme name" to a catchy name (can be your name)
     //   - Change the colors blue and red with colors of your choice.
     //   - Uncomment the call to addOption (remove the `//`)
-    // addOption("theme name", "linear-gradient(blue, red)", "red", "red");
+     addOption("mendomic theme", "linear-gradient(green, black)", "purple", "white");
 
      addOption("Alec Radliff's no color wheel ", "linear-gradient(purple, orange)", "white", "green");
 
